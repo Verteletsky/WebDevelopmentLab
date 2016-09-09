@@ -15,3 +15,5 @@
 /log/*
 !/log/.keep
 /tmp
+Будет удалено .idea/runConfigurations/
+Будет удалено .idea/vcs.xml
